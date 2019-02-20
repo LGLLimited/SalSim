@@ -1,0 +1,12 @@
+Package: SalSim
+Type: Package
+Title: SalSim Tools
+Version: 0.1.0
+Depends: tidyverse
+Date: 2019-02-18
+Author: Wendell Challenger
+Maintainer: Wendell Challenger <wchallenger@lgl.com>
+Description: Provides a series of tools for working with output from SalSim salmon simulator.
+License: GPL-2
+LazyLoad: yes
+RoxygenNote: 6.0.1
